@@ -91,9 +91,13 @@ python main.py
 
 商家管理后台：http://127.0.0.1:5000/admin
 
-## 📸 项目截图
 
-> 图 1：顾客预订主界面
+## 📸 项目截图
+图 1：顾客预订主界面
+<img width="800" height="auto" alt="home" src="https://github.com/user-attachments/assets/398220fd-8203-4a08-8d99-7c3c86beed3e" />
+
+图 2：商家管理后台界面
+<img width="800" height="auto" alt="admin" src="https://github.com/user-attachments/assets/67b4202f-493f-4722-9924-2ccb549c41f8" />
 
 
 💡 未来优化计划
