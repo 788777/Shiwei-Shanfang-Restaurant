@@ -1,3 +1,7 @@
+<img width="800" height="auto" alt="home" src="https://github.com/user-attachments/assets/045a24f0-b74b-43d8-9105-6b6a65c46c6a" />
+<img width="800" height="auto" alt="admin" src="https://github.com/user-attachments/assets/aed623f5-c380-4e9f-bf5a-5e61ae64bda1" />
+
+
 # 拾味山房 · 新中式山野料理预约系统
 
 一个基于 **Flask + MySQL** 的餐厅全栈预订系统，包含从前端展示、预订表单提交，到后端数据持久化、异步邮件通知、商家后台管理的完整业务闭环。
@@ -90,17 +94,6 @@ python main.py
 前端预订页面：http://127.0.0.1:5000
 
 商家管理后台：http://127.0.0.1:5000/admin
-
-
-### 🖼️ 项目截图
-
-**图 1：顾客预订主界面**
-
-![首页展示](https://github.com/user-attachments/assets/366f9f4f-3ccf-4edb-9306-afc5bcebbf78)
-
-**图 2：商家管理后台界面**
-
-![后台管理](https://github.com/user-attachments/assets/1a22581a-590b-49f0-a857-950765899780)
 
 
 💡 未来优化计划
