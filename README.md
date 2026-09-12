@@ -94,10 +94,10 @@ python main.py
 
 ## 📸 项目截图
 图 1：顾客预订主界面
-<img width="2549" height="8903" alt="home" src="https://github.com/user-attachments/assets/7c21a8ad-1b49-418e-be41-f9e240de8160" />
+<img width="800" height="auto" alt="home" src="https://github.com/user-attachments/assets/366f9f4f-3ccf-4edb-9306-afc5bcebbf78" />
 
 图 2：商家管理后台界面
-<img width="2549" height="1299" alt="admin" src="https://github.com/user-attachments/assets/217a8823-f6e4-4fcb-81e9-8d847f737468" />
+<img width="800" height="auto" alt="admin" src="https://github.com/user-attachments/assets/1a22581a-590b-49f0-a857-950765899780" />
 
 
 💡 未来优化计划
