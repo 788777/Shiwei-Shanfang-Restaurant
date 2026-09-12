@@ -95,9 +95,11 @@ python main.py
 ### 🖼️ 项目截图
 
 **图 1：顾客预订主界面**
+
 ![首页展示](https://github.com/user-attachments/assets/366f9f4f-3ccf-4edb-9306-afc5bcebbf78)
 
 **图 2：商家管理后台界面**
+
 ![后台管理](https://github.com/user-attachments/assets/1a22581a-590b-49f0-a857-950765899780)
 
 
