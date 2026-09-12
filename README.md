@@ -94,10 +94,9 @@ python main.py
 ## 📸 项目截图
 
 > 图 1：顾客预订主界面
-![首页展示](images/home.png)
+![首页展示](https://raw.githubusercontent.com/788777/Shiwei-Shanfang-Restaurant/main/images/home.png)
 
-> 图 2：商家管理后台
-![后台管理](images/admin.png)
+![后台管理](https://raw.githubusercontent.com/788777/Shiwei-Shanfang-Restaurant/main/images/admin.png)
 
 💡 未来优化计划
 □ 将 people_count 字段由字符串改为整数类型，便于后续数据统计分析。
