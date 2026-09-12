@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>预订后台 · 拾味山房</title>
+    <style>
+        body { font-family: 'Microsoft YaHei', sans-serif; background: #f7f0e3; color: #2b2118; padding: 40px; }
+        h1 { text-align: center; margin-bottom: 30px; }
+        table { width: 100%; border-collapse: collapse; background: #fffdf8; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #e4d7c0; }
+        th { background: #bf4f1f; color: white; font-weight: 500; }
+        tr:hover { background: #f5e2d1; }
+    </style>
+</head>
+<body>
+    <h1>📋 预订信息管理后台</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th><th>姓名</th><th>手机号</th><th>日期</th><th>时段</th><th>人数</th><th>事由</th><th>备注</th><th>提交时间</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for r in reservations %}
+            <tr>
+                <td>{{ r.id }}</td>
+                <td>{{ r.name }}</td>
+                <td>{{ r.phone }}</td>
+                <td>{{ r.reserve_date }}</td>
+                <td>{{ r.time_slot }}</td>
+                <td>{{ r.people_count }}</td>
+                <td>{{ r.occasion }}</td>
+                <td>{{ r.remark }}</td>
+                <td>{{ r.created_at }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
