@@ -91,8 +91,13 @@ python main.py
 
 商家管理后台：http://127.0.0.1:5000/admin
 
-📸 项目截图
-c:\Users\yisecaiyu\Documents\xwechat_files\wxid_hoptgjmyqpie22_46d4\temp\RWTemp\2026-09\f3945da1c786aacf4f1f36c4f3a7d7bb.png
+## 📸 项目截图
+
+> 图 1：顾客预订主界面
+![首页展示](images/home.png)
+
+> 图 2：商家管理后台
+![后台管理](images/admin.png)
 
 💡 未来优化计划
 □ 将 people_count 字段由字符串改为整数类型，便于后续数据统计分析。
